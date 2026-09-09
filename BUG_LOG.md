@@ -1,6 +1,6 @@
 # Bug Log & Postmortems
 
-**Author:** Ronnie "SoulRa" Mitchell · **Compiled:** July 2026
+**Author:** Ronnie Mitchell · **Compiled:** July 2026
 
 This is a running log of real bugs hit while building real things — not staged, not textbook. Every entry here happened during actual work: a Bash maintenance tool pushed to production on GitHub, or a multi-stage security-ops agent pipeline built stage by stage. Nothing in here was written to look good. It's written because the habit of naming a bug precisely — what broke, why, how it was found, how it was fixed — is the same habit that makes someone useful in a SOC and dangerous in a red team engagement. Silent failures are the ones that matter most in both jobs. Most of what's below is a silent failure, not a crash.
 
